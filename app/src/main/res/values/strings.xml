@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Frases do Dia</string>
+    <string name="new_frase">Nova Frase</string>
+    <string name="information">Pressione o botão para gerar uma frase nova</string>
+    <string name="frase1">Eu prefiro errar do que não fazer nada.</string>
+    <string name="frase2">Agonia, êxtase, paz...cada passagem tem sua própria beleza.</string>
+    <string name="frase3">O amanhã é uma esperança, nunca uma promessa!</string>
+    <string name="frase4">Um ideal não é nada até você lutar por ele!</string>
+    <string name="frase5">Quanto mais escura a noite, mais brilhante as estrelas</string>
+</resources>
